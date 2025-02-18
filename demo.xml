@@ -46,3 +46,9 @@
     </xs:complexType>
   </xs:element>
 </xs:schema> -->
+
+<!-- It is not necessary to use a schema like XSD (XML Schema Definition) when writing XML, but it can be useful
+depending on the context. If you want to ensure that the XML document is following a certain structure, and/or
+contains the correct data types, validation through schemas is needed. Many systems demand that XML follows a
+specific structure, in which case XSD can help with formatting. However, if the XML file is simple and/or don't 
+need strict validation, you don't need a schema. -->
