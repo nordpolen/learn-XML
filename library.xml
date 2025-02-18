@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Create a list of books in a library. Every book needs the following: -->
+<!-- Title -->
+<!-- Author -->
+<!-- Year of publication -->
+<!-- Genre -->
+<!-- ISBN -->
+<!-- Description -->
+
+<library>
+    <book isbn="9780747532743">
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <genre>Fantasy</genre>
+        <description>
+            Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive.
+        </description>
+    </book>
+
+    <book isbn="9780743273565">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <genre>Novel</genre>
+        <description>
+            The Great Gatsby, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career.
+        </description>
+    </book>
+
+    <book isbn="9780451524935">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <genre>Dystopian</genre>
+        <description>
+            1984 is a novel by George Orwell that was first published in 1949.
+        </description>
+    </book>
+
+    <book isbn="9780316769488">
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <year>1951</year>
+        <genre>Novel</genre>
+        <description>
+            The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951.
+        </description> 
+    </book>
+</library>
