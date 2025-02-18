@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeRegistry>
+    <recipe id="1">
+        <title>Spaghetti Carbonara</title>
+        <category>Main course</category>
+        <ingredients>
+            <ingredient amount="100 grams">Spaghetti</ingredient>
+            <ingredient amount="2">Eggs</ingredient>
+            <ingredient amount="50 grams">Pancetta</ingredient>
+            <ingredient amount="A pinch">Black pepper</ingredient>
+            <ingredient amount="20 grams">Pecorino Romano</ingredient>
+        </ingredients>
+        <instructions>
+            <steps>
+                <step>Boil water in a large pot.</step>
+                <step>While the water is boiling, cut the pancetta into small cubes.</step>
+                <step>Whisk the eggs in a bowl and add the grated Pecorino Romano and black pepper.</step>
+                <step>Cook the pancetta in a pan until crispy.</step>
+                <step>Cook the spaghetti in the boiling water.</step>
+                <step>Drain the spaghetti and add it to the pan with the pancetta.</step>
+                <step>Turn off the heat and add the egg mixture to the pan.</step>
+                <step>Mix everything together until the eggs are cooked but still creamy.</step>
+                <step>Serve with extra Pecorino Romano and black pepper.</step>
+            </steps>
+        </instructions>
+        <time>30 minutes</time>
+        <nutritionDeclaration>
+            <calories>500</calories>
+            <fat>20g</fat>
+            <carbohydrates>60g</carbohydrates>
+            <protein>20g</protein>
+        </nutritionDeclaration>
+    </recipe>
+
+    <recipe id="2">
+        <title>Chocolate Cake</title>
+        <category>Dessert</category>
+        <ingredients>
+            <ingredient amount="200 grams">Flour</ingredient>
+            <ingredient amount="200 grams">Sugar</ingredient>
+            <ingredient amount="200 grams">Butter</ingredient>
+            <ingredient amount="4">Eggs</ingredient>
+            <ingredient amount="1 tsp">Baking powder</ingredient>
+            <ingredient amount="2 tbsp">Cocoa powder</ingredient>
+        </ingredients>
+        <instructions>
+            <steps>
+                <step>Preheat the oven to 180°C (350°F).</step>
+                <step>Grease and line two 20cm (8in) round cake tins.</step>
+                <step>Cream the butter and sugar together until light and fluffy.</step>
+                <step>Add the eggs one at a time, beating well after each addition.</step>
+                <step>Sift in the flour, baking powder, and cocoa powder.</step>
+                <step>Fold the dry ingredients into the wet ingredients until just combined.</step>
+                <step>Divide the batter evenly between the two cake tins.</step>
+                <step>Bake in the preheated oven for 25-30 minutes or until a skewer inserted into the center comes out clean.</step>
+                <step>Leave the cakes to cool in the tins for 10 minutes before transferring to a wire rack to cool completely.</step>
+            </steps>
+        </instructions>
+        <time>1 hour</time>
+        <nutritionDeclaration>
+            <calories>300</calories>
+            <fat>15g</fat>
+            <carbohydrates>40g</carbohydrates>
+            <protein>5g</protein>
+        </nutritionDeclaration>
+    </recipe>
+
+    <recipe id="3">
+        <title>Caesar Salad</title>
+        <category>Salad</category>
+        <ingredients>
+            <ingredient amount="1">Romaine lettuce</ingredient>
+            <ingredient amount="1/2 cup">Croutons</ingredient>
+            <ingredient amount="1/4 cup">Grated Parmesan cheese</ingredient>
+            <ingredient amount="1/4 cup">Caesar dressing</ingredient>
+            <ingredient amount="1">Lemon</ingredient>
+            <ingredient amount="1">Garlic clove</ingredient>
+            <ingredient amount="1">Egg yolk</ingredient>
+            <ingredient amount="1/2 tsp">Dijon mustard</ingredient>
+            <ingredient amount="1/2 cup">Olive oil</ingredient>
+            <ingredient amount="1/2 tsp">Worcestershire sauce</ingredient>
+            <ingredient amount="1/2 tsp">Anchovy paste</ingredient>
+        </ingredients>
+        <instructions>
+            <steps>
+                <step>Wash and dry the Romaine lettuce.</step>
+                <step>Make the dressing by whisking together the lemon juice, garlic, egg yolk, Dijon mustard, Worcestershire sauce, and anchovy paste.</step>
+                <step>Slowly drizzle in the olive oil while whisking until the dressing is emulsified.</step>
+                <step>Toss the lettuce with the dressing, croutons, and Parmesan cheese.</step>
+            </steps>
+        </instructions>
+        <time>15 minutes</time>
+        <nutritionDeclaration>
+            <calories>250</calories>
+            <fat>20g</fat>
+            <carbohydrates>10g</carbohydrates>
+            <protein>5g</protein>
+        </nutritionDeclaration>
+    </recipe>
+</recipeRegistry>
