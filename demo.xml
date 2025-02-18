@@ -1,3 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Creating a list of friends -->
 <friendsList>
-
+    <friend>
+        <name>Alex</name>
+    </friend>
+    <friend>
+        <name>Mary</name>
+    </friend>
+    <friend>
+        <name>Rachel</name>
+    </friend>
+    <bestFriend> <!-- The friendsList contains different types of friends -->
+        <name>Alex</name>
+    </bestFriend>
 </friendsList>
+
+
+<!-- XML Schema: demo.xsd -->
+<!-- <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="friendsList">
+    <xs:annotation>
+      <xs:documentation> Creating a list of friends </xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="friend" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="bestFriend">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name">
+                <xs:annotation>
+                  <xs:documentation> The friendsList contains different types of friends </xs:documentation>
+                </xs:annotation>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema> -->
