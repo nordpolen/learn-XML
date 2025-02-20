@@ -8,8 +8,8 @@ This repository contains various **XML projects** designed to practice XML **syn
 
 |-------🧪 demo.xml # A file used for testing
 
-|-------📂 library.xml # A catalog of books
+|-------📃 library.xml # A catalog of books
 
-|-------📂 recipes.xml  # A recipe registry
+|-------📃 recipes.xml  # A recipe registry
 
-|-------📂 README.md   # Project documentation
+|-------💡 README.md   # Project documentation
