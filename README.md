@@ -4,15 +4,10 @@
 This repository contains various **XML projects** designed to practice XML **syntax, structure, and validation**. The projects cover different scenarios such as a **library catalog** and a **recipe registry**.
 
 ## 📂 File Structure
-📂 xml-projects
-
-|-------🧪 demo.xml # A file used for testing
-
-|-------📖 library.xml # A catalog of books
-
-|-------📃 recipes.xml  # A recipe registry
-
-|-------💡 README.md   # Project documentation
+    - 🧪 `demo.xml`: A file used for testing.
+    - 📖 `library.xml`: A catalog of books.
+    - 📃 `recipes.xml`: A recipe registry.
+    - 💡 `README.md`: Project documentation.
 
 ## 🚀 Getting Started
 
@@ -27,12 +22,6 @@ To get started with these XML projects, follow the steps below:
     ```bash
     cd xml-projects
     ```
-
-3. **Explore the files**:
-    - 🧪 `demo.xml`: A file used for testing.
-    - 📖 `library.xml`: A catalog of books.
-    - 📃 `recipes.xml`: A recipe registry.
-    - 💡 `README.md`: Project documentation.
 
 ## 🛠️ Tools and Technologies
 
