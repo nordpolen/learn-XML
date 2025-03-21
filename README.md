@@ -29,10 +29,10 @@ To get started with these XML projects, follow the steps below:
     ```
 
 3. **Explore the files**:
-    🧪 `demo.xml`: A file used for testing.
-    📖 `library.xml`: A catalog of books.
-    📃 `recipes.xml`: A recipe registry.
-    💡 `README.md`: Project documentation.
+    - 🧪 `demo.xml`: A file used for testing.
+    - 📖 `library.xml`: A catalog of books.
+    - 📃 `recipes.xml`: A recipe registry.
+    - 💡 `README.md`: Project documentation.
 
 ## 🛠️ Tools and Technologies
 
