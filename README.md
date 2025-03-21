@@ -41,10 +41,6 @@ For more information on XML, check out the following resources:
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
-For any questions or suggestions, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to reach out to [contact@josefinanord.se](mailto:contact@josefinanord.se).
