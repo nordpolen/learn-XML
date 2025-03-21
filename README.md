@@ -15,12 +15,12 @@ To get started with these XML projects, follow the steps below:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/xml-projects.git
+    git clone https://github.com/yourusername/learn-xml.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd xml-projects
+    cd learn-xml
     ```
 
 ## 🛠️ Tools and Technologies
